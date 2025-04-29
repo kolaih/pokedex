@@ -44,8 +44,7 @@ Para instalar a aplicação e rodar localmente:
 
 | Homepage |
 | --- |
-| 
-Home
+
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/4294e3b1bcac21cb7a5b947d2239c3b97bc6424747dae64d.png)
 
@@ -58,7 +57,6 @@ Home
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b643077f495b02046b059ec041199f6b73b405402ba9a528.png)
 
- | ![Mobile screenshot](/screenshots/mobile.jpg) |
 
 ## Credits
 
