@@ -1,0 +1,21 @@
+.header {
+  background-color: gold;
+  height: 70px;
+  width: 100%;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+.header h1 {
+  color: white;
+}
+.text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.header img {
+  width: 100px;
+  height: 100px;
+}

@@ -1,0 +1,40 @@
+.container {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  margin: 1rem auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-container input {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+.btn {
+  background-color: gold;
+  color: white;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.btn:hover {
+  background-color: #ffbf00;
+}
+.pokemons-container-feed {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+}
