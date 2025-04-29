@@ -43,16 +43,16 @@ Para instalar a aplicação e rodar localmente:
 ## Screenshots
 
 | Homepage |
-| --- |
+
 
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/4294e3b1bcac21cb7a5b947d2239c3b97bc6424747dae64d.png)
 
- |
+ 
 
-| Detalhes Pokemon |   |
-| --- | --- |
-| 
+| Detalhes Pokemon |   
+
+ 
 ![](/screenshots/overview.jpg)
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b643077f495b02046b059ec041199f6b73b405402ba9a528.png)
