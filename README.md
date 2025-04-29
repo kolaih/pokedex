@@ -16,7 +16,7 @@ Uma aplicação React que consome a API pública [PokeAPI](https://pokeapi.co/),
 
 Pokedex oferece as seguintes funcionalidades:
 
-*   Listagem dos **50 primeiros Pokémons** em carda responsivos
+*   Listagem dos **50 primeiros Pokémons** em cards responsivos
 *   Busca por **nome** ou **ID** de Pokémon
 *   Página de detalhes com:
     *   Nome, Imagem, ID, Altura, Peso, Tipos
